@@ -1,5 +1,7 @@
 # Maintaining this profile
 
+[Validation record and remaining checks](VALIDATION.md)
+
 ## Content
 
 - `README.md` is the English profile; `README.zh-CN.md` is the Chinese entry.
