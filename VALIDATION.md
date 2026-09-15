@@ -2,6 +2,14 @@
 
 This records the profile refresh and checks on the public snapshots. It is not a product release certificate. Dates use Asia/Shanghai unless a linked service displays another timezone.
 
+## Visual revision after feedback
+
+The profile was revised after reviewing oil-oil's actual account overview and project pages. [Design notes](DESIGN.md) record the references and the original visual direction. [Initial visual revision](https://github.com/wangyuqin378-cpu/wangyuqin378-cpu/commit/cb44187194b5953584c2a15a6bb82316ac229cc6) added the maker artwork, paired real product previews and a continuity workflow; a subsequent small-screen revision shortened the product copy and added a vertical workflow below 600px.
+
+The published English profile was visually inspected in desktop and 390 × 844 Safari responsive views, with both light and dark preferences. The dark artwork switched correctly, and the narrow workflow changed to its readable vertical variant. The published Chinese entry was opened and its revised text and imagery checked. These are browser inspections, not physical-device acceptance.
+
+All six SVG assets were fetched anonymously from the published repository and matched the local files byte-for-byte. The nine update tests passed; rendering the existing update records preserved both redesigned READMEs byte-for-byte. Product screenshots were not edited. GitHub attributed the design commits to the maker's account.
+
 ## Profile and publishing
 
 - The [public profile](https://github.com/wangyuqin378-cpu) was opened without a GitHub login. The English introduction, Chinese entry, three selected projects, four experiments and five recent updates were present.
