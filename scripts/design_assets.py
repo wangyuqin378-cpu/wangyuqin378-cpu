@@ -8,8 +8,8 @@ PALETTES = {
 }
 
 
-def svg(body, p, height, title, description):
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 {height}" role="img" aria-labelledby="title desc">
+def svg(body, p, height, title, description, width=960):
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">
 <title id="title">{title}</title><desc id="desc">{description}</desc>
 <style>text{{font-family:'Avenir Next',Avenir,'Trebuchet MS',Arial,sans-serif;fill:{p['ink']}}}.small{{font-size:16px;letter-spacing:2px;font-weight:600}}.muted{{fill:{p['muted']}}}.line{{stroke:{p['ink']};stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}}</style>
 {body}
@@ -70,7 +70,21 @@ def continuity(p):
     return svg(body, p, 168, 'Context Continuity workflow', 'Decisions and evidence become a checkpoint containing the next step, so the next session can resume the task. This is a workflow illustration, not a terminal screenshot.')
 
 
+def continuity_mobile(p):
+    body = f'''<rect width="440" height="366" rx="16" fill="{p['bg']}"/>
+<path d="M219 102 V131 M210 122 L219 131 L228 122 M219 232 V261 M210 252 L219 261 L228 252" class="line"/>
+<rect x="22" y="20" width="396" height="80" rx="12" fill="{p['paper']}"/>
+<circle cx="48" cy="59" r="5" fill="{p['coral']}"/>
+<text x="69" y="67" font-size="27" font-weight="650">Decisions + evidence</text>
+<rect x="22" y="134" width="396" height="96" rx="12" fill="{p['blue']}"/>
+<path d="M45 134 V173 L55 165 L65 173 V134" fill="{p['coral']}"/>
+<text x="84" y="173" font-size="27" font-weight="650">Checkpoint</text><text x="45" y="210" font-size="25">Save the next step</text>
+<rect x="22" y="264" width="396" height="80" rx="12" fill="{p['green']}"/>
+<text x="45" y="313" font-size="27" font-weight="650">Next session: resume ↗</text>'''
+    return svg(body, p, 366, 'Context Continuity workflow', 'Decisions and evidence become a checkpoint with the next step. Resume from it in the next session.', width=440)
+
+
 if __name__ == '__main__':
     for theme, palette in PALETTES.items():
-        for name, build in [('maker', hero), ('continuity', continuity)]:
+        for name, build in [('maker', hero), ('continuity', continuity), ('continuity-mobile', continuity_mobile)]:
             (ROOT / f'{name}-{theme}.svg').write_text(build(palette))

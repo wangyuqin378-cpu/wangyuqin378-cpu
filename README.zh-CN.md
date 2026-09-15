@@ -44,6 +44,8 @@
 AI 长任务也需要书签。保存已经做出的决定、找到的证据和下一步，让新会话接着做。
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/continuity-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/continuity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/continuity-dark.svg">
   <img src="assets/continuity-light.svg" width="100%" alt="使用过程：决定和证据 → 保存带有下一步的检查点 → 在新会话中继续。">
 </picture>

@@ -22,6 +22,6 @@ The artwork and copy here are original. Reference artwork, characters and logos 
 
 ## Editing
 
-Run `python3 scripts/design_assets.py` to regenerate the four self-contained SVGs. There are no external fonts, scripts, embedded images or tracking requests in them. Keep the matching native text and alternative text accurate when changing the art. Product screenshots retain their original bytes; see [asset provenance](assets/README.md).
+Run `python3 scripts/design_assets.py` to regenerate the six self-contained SVGs. The workflow has a vertical variant below 600px so its labels remain readable. There are no external fonts, scripts, embedded images or tracking requests in them. Keep the matching native text and alternative text accurate when changing the art. Product screenshots retain their original bytes; see [asset provenance](assets/README.md).
 
 Keep the update marker pairs in both READMEs intact. Weekly automation owns only the content between those markers.

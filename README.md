@@ -15,14 +15,14 @@ I build apps around things I want to do myself: find something interesting in an
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/wangyuqin378-cpu/jianwei">Jianwei / 见微</a></h3>
-  <p>A little knowledge hiding in your camera roll. Everyday photos become cards with sources you can follow.</p>
+  <p>Turn everyday photos into knowledge cards, with sources you can follow.</p>
   <p><strong>iPhone · In development</strong></p>
   <p align="center"><a href="https://yuqin.wang/#/project/jianwei"><img src="assets/jianwei-today.webp" width="190" alt="Real Jianwei development preview: a broom photo becomes a knowledge card with a source link."></a></p>
   <p><a href="https://yuqin.wang/#/project/jianwei"><strong>See the product ↗</strong></a> · <a href="https://github.com/wangyuqin378-cpu/jianwei">Repository</a></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://yuqin.wang/#/project/city">City Copy / 城市副本</a></h3>
-  <p>A small reason to take a different walk. Follow a daily prompt, collect photos and make a city zine.</p>
+  <p>Daily prompts, small discoveries and photos that become your own city zine.</p>
   <p><strong>iPhone · In development</strong></p>
   <p align="center"><a href="https://yuqin.wang/#/project/city"><img src="assets/city-task.webp" width="190" alt="Real City Copy development preview: today's small city exploration prompt."></a></p>
   <p><a href="https://yuqin.wang/#/project/city"><strong>See the product ↗</strong></a> · Private source</p>
@@ -44,6 +44,8 @@ These are real interfaces from ongoing product work. Jianwei's public repository
 Long AI tasks need a place to leave off. Save the decisions, evidence and next step, then carry them into the next session.
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/continuity-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/continuity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/continuity-dark.svg">
   <img src="assets/continuity-light.svg" width="100%" alt="Workflow: decisions and evidence → a checkpoint with the next step → resume in the next session.">
 </picture>
