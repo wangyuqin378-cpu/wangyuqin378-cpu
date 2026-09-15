@@ -1,34 +1,67 @@
-# 王钰钦 / Yuqin Wang
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/maker-dark.svg">
+  <img src="assets/maker-light.svg" width="100%" alt="王钰钦 — 从日常生活出发，做小产品，也做帮助自己使用 AI 的工具。">
+</picture>
 
-独立产品创作者，做一些与日常生活有关的小产品，也做帮助自己使用 AI 的工具。
+### 你好，我是王钰钦 / Yuqin
 
-我把具体的问题做成能运行的东西：怎样重新观察熟悉的城市，怎样从生活照片中发现知识，怎样让 AI 长任务在中断之后继续。
+独立产品创作者。我做的东西，往往来自自己想做的一件小事：从普通照片里发现一点知识，换条路逛逛城市，或者让没做完的 AI 任务接着往下走。
 
-[个人网站与文章](https://yuqin.wang/) · [English](README.md)
+**[逛逛我的网站 ↗](https://yuqin.wang/)** &nbsp; · &nbsp; [文章](https://yuqin.wang/#/articles) &nbsp; · &nbsp; [English](README.md)
 
-## 代表作品
+## 把日常，再看仔细一点
 
-| 项目 | 做什么 · 当前阶段 |
-| --- | --- |
-| **[见微 / Jianwei](https://github.com/wangyuqin378-cpu/jianwei)** | 从日常照片中发现知识，每张卡保留可追溯来源。**开发中 · iPhone。** [了解产品 →](https://yuqin.wang/#/project/jianwei) |
-| **[城市副本 / City Copy](https://yuqin.wang/#/project/city)** | 用每天的小任务重新观察城市，拍下发现，再整理成自己的城市小志。**开发中 · iPhone · 源码私有。** [产品介绍 →](https://yuqin.wang/#/project/city) |
-| **[Context Continuity](https://github.com/wangyuqin378-cpu/context-continuity)** | 保存决定、证据和下一步，让 AI 长任务在中断或换会话后继续。**[v2.1.0](https://github.com/wangyuqin378-cpu/context-continuity/releases/tag/v2.1.0) · MIT · Python 3.9+。** [开始使用 →](https://github.com/wangyuqin378-cpu/context-continuity/tree/main/examples/quickstart) |
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/wangyuqin378-cpu/jianwei">见微 / Jianwei</a></h3>
+  <p>相册里，藏着一点新知识。把日常照片变成知识卡，每张卡都能追溯来源。</p>
+  <p><strong>iPhone · 开发中</strong></p>
+  <p align="center"><a href="https://yuqin.wang/#/project/jianwei"><img src="assets/jianwei-today.webp" width="190" alt="见微真实开发预览：一张扫帚照片、知识卡和来源链接。"></a></p>
+  <p><a href="https://yuqin.wang/#/project/jianwei"><strong>看看产品 ↗</strong></a> · <a href="https://github.com/wangyuqin378-cpu/jianwei">查看仓库</a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://yuqin.wang/#/project/city">城市副本 / City Copy</a></h3>
+  <p>给散步找一个小理由。跟着每日任务观察城市，拍下发现，再做成自己的城市小志。</p>
+  <p><strong>iPhone · 开发中</strong></p>
+  <p align="center"><a href="https://yuqin.wang/#/project/city"><img src="assets/city-task.webp" width="190" alt="城市副本真实开发预览：今天的城市探索小任务。"></a></p>
+  <p><a href="https://yuqin.wang/#/project/city"><strong>看看产品 ↗</strong></a> · 源码私有</p>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/wangyuqin378-cpu/jianwei"><img src="assets/jianwei-today.webp" width="180" alt="见微：照片知识卡与来源入口"></a>
-<a href="https://yuqin.wang/#/project/city"><img src="assets/city-task.webp" width="180" alt="城市副本：今日的城市探索小任务"></a>
+<details>
+<summary>关于这些开发预览</summary>
 
-*见微与城市副本的开发预览。见微公开仓库仍是较早的工程快照，公开分发和最终真机验收尚未完成。Context Continuity 的评测范围与能力边界见仓库文档。*
+图片来自持续开发中的真实界面。见微公开仓库保留较早的工程快照，不能据此复现图中版本。两个产品的公开下载、最终真机验收和正式分发仍待完成。
 
-## 其他工具与实验
+</details>
 
-| 项目 | 在探索什么 | 阶段 |
-| --- | --- | --- |
-| [Prompt Generation Loop](https://github.com/wangyuqin378-cpu/prompt-generation-loop) | 从产品目标和坏例出发，生成可测试的 Prompt。 | Agent Skill 原型 |
-| [Codex Resume Manager](https://github.com/wangyuqin378-cpu/codex-resume-manager) | 额度恢复后，续跑主动开启守护的原 Codex 任务。 | macOS 本地工具；真实额度中断验收待完成 |
-| [Just Do It](https://github.com/wangyuqin378-cpu/just-do-it) | 将纪要和零散输入整理为自己的行动与后续事项。 | 依赖内部服务的工作流实验 |
-| [Texas Hold’em](https://github.com/wangyuqin378-cpu/texas-holdem) | 给朋友开一桌浏览器牌局，也可以加机器人练习。 | 学习 Demo |
+## 让有用的工作，接着往下走
 
-## 最近进展
+### [Context Continuity](https://github.com/wangyuqin378-cpu/context-continuity)
+
+AI 长任务也需要书签。保存已经做出的决定、找到的证据和下一步，让新会话接着做。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/continuity-dark.svg">
+  <img src="assets/continuity-light.svg" width="100%" alt="使用过程：决定和证据 → 保存带有下一步的检查点 → 在新会话中继续。">
+</picture>
+
+**[跟着示例试一次 →](https://github.com/wangyuqin378-cpu/context-continuity/tree/main/examples/quickstart)** &nbsp; · &nbsp; [v2.1.0](https://github.com/wangyuqin378-cpu/context-continuity/releases/tag/v2.1.0) · MIT · Python 3.9+
+
+上图是流程示意。已支持的行为与评测边界见仓库说明。
+
+### 工作台上的其他尝试
+
+- **[Prompt Generation Loop](https://github.com/wangyuqin378-cpu/prompt-generation-loop)** — 从产品目标和坏例出发，生成可测试的 Prompt。*Agent Skill 原型。*
+- **[Codex Resume Manager](https://github.com/wangyuqin378-cpu/codex-resume-manager)** — 额度恢复后，继续主动开启守护的原任务。*macOS 本地工具；真实额度中断验收待完成。*
+- **[Just Do It](https://github.com/wangyuqin378-cpu/just-do-it)** — 把纪要和零散输入整理成行动与后续事项。*依赖内部服务的工作流实验。*
+- **[Texas Hold’em](https://github.com/wangyuqin378-cpu/texas-holdem)** — 给朋友开一桌浏览器牌局，也能和机器人练习。*学习 Demo。*
+
+## 工作台上的新进展
+
+最近的公开开发记录，点进去可以看到具体改动。
 
 <!-- updates:start -->
 - 2026-09-16 · **开发更新** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
@@ -38,4 +71,4 @@
 - 2026-08-27 · **开发更新** · jianwei — [Refresh iOS beta handoff evidence](https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b)
 <!-- updates:end -->
 
-[完整更新](UPDATES.md) · [更多作品](https://yuqin.wang/#/projects)
+[完整更新 →](UPDATES.md) &nbsp; · &nbsp; [更多作品与故事 ↗](https://yuqin.wang/#/projects)

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 168" role="img" aria-labelledby="title desc">
+<title id="title">Context Continuity workflow</title><desc id="desc">Decisions and evidence become a checkpoint containing the next step, so the next session can resume the task. This is a workflow illustration, not a terminal screenshot.</desc>
+<style>text{font-family:'Avenir Next',Avenir,'Trebuchet MS',Arial,sans-serif;fill:#EDF5F3}.small{font-size:16px;letter-spacing:2px;font-weight:600}.muted{fill:#B6CDD5}.line{stroke:#EDF5F3;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}</style>
+<rect width="960" height="168" rx="16" fill="#173442"/>
+<path d="M300 83 H345 M330 70 L345 83 L330 96 M620 83 H665 M650 70 L665 83 L650 96" class="line"/>
+<g transform="translate(29 30)"><rect width="248" height="108" rx="12" fill="#244958"/>
+<circle cx="23" cy="24" r="5" fill="#FFAB8F"/>
+<text x="43" y="32" font-size="24" font-weight="650">Decisions</text><text x="23" y="75" font-size="24" class="muted">+ evidence</text></g>
+<g transform="translate(362 30)"><rect width="241" height="108" rx="12" fill="#385D7A"/>
+<path d="M21 0 V36 L31 28 L41 36 V0" fill="#FFAB8F"/>
+<text x="59" y="35" font-size="24" font-weight="650">Checkpoint</text><text x="23" y="78" font-size="23">Save the next step</text></g>
+<g transform="translate(685 30)"><rect width="246" height="108" rx="12" fill="#3B675C"/>
+<text x="23" y="36" font-size="24" font-weight="650">Next session</text><text x="23" y="78" font-size="24">Pick up here ↗</text></g>
+</svg>

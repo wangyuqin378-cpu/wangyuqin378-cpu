@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 358" role="img" aria-labelledby="title desc">
+<title id="title">Yuqin Wang — Small apps. Real life.</title><desc id="desc">Original illustration: a photo observation card, a folded city map, and a task bookmark connected by one line. Apps for everyday life and tools for working with AI.</desc>
+<style>text{font-family:'Avenir Next',Avenir,'Trebuchet MS',Arial,sans-serif;fill:#17384A}.small{font-size:16px;letter-spacing:2px;font-weight:600}.muted{fill:#486271}.line{stroke:#17384A;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}</style>
+<rect width="960" height="358" rx="20" fill="#E6EFF4"/>
+<!-- A continuous observation line joins a photo, a city walk and a saved task. -->
+<path d="M526 291 C558 302 558 239 612 240 S697 285 729 232 S798 143 858 177 S896 292 855 313" stroke="#C44832" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="526" cy="291" r="6" fill="#C44832"/><circle cx="855" cy="313" r="6" fill="#C44832"/>
+<text x="42" y="46" class="small">YUQIN WANG</text>
+<text x="42" y="131" font-size="70" font-weight="750" letter-spacing="-3">Small apps.</text>
+<text x="42" y="209" font-size="76" font-family="Georgia,serif" font-style="italic" letter-spacing="-3" style="font-family:Georgia,serif">Real life.</text>
+<path d="M45 229 Q206 241 357 227" fill="none" stroke="#C44832" stroke-width="5" stroke-linecap="round"/>
+<text x="43" y="281" font-size="21" class="muted">Everyday curiosity. Useful AI tools.</text>
+<text x="43" y="322" class="small muted">INDEPENDENT MAKER  /  yuqin.wang</text>
+<!-- Photo observation: viewfinder corners, a leaf, and a source label. -->
+<g transform="translate(555 58) rotate(-8 70 86)">
+<rect x="5" y="7" width="145" height="178" rx="6" fill="#B4CDD8"/>
+<rect width="145" height="178" rx="6" fill="#F9FCFC" stroke="#B4CDD8"/>
+<rect x="14" y="14" width="117" height="113" rx="3" fill="#C7DCD2"/>
+<path d="M26 38 V27 H38 M107 27 H119 V38 M26 103 V115 H38 M107 115 H119 V103" class="line" opacity=".6"/>
+<path d="M57 100 Q61 67 92 42 Q110 80 69 90 M61 90 L88 53" class="line"/>
+<circle cx="22" cy="147" r="4" fill="#C44832"/>
+<path d="M35 147 H115 M18 160 H83" stroke="#B4CDD8" stroke-width="4" stroke-linecap="round"/>
+</g>
+<!-- City walk: a folded map and one chosen route. -->
+<g transform="translate(732 41) rotate(9 80 70)">
+<path d="M0 12 L53 0 L108 13 L158 1 V144 L108 156 L53 143 L0 155 Z" fill="#F9FCFC" stroke="#B4CDD8" stroke-width="2"/>
+<path d="M53 0 V143 M108 13 V156 M0 58 L53 46 L108 59 L158 47 M0 108 L53 96 L108 109 L158 97" fill="none" stroke="#B4CDD8" stroke-width="2"/>
+<path d="M26 129 L26 80 L83 92 L83 41 L132 30" stroke="#C44832" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="26" cy="129" r="6" fill="#C44832"/>
+<circle cx="132" cy="30" r="9" fill="#F3CFB9" stroke="#C44832" stroke-width="3"/>
+</g>
+<!-- Continuity: a bookmark carried to the next task. -->
+<g transform="translate(715 237) rotate(-5 75 43)">
+<rect width="149" height="72" rx="12" fill="#B6CEE5"/>
+<path d="M22 0 V42 L34 33 L46 42 V0" fill="#C44832"/>
+<path d="M67 26 H121 M67 39 H103 M113 48 L121 40 L129 48 M121 40 V58" class="line"/>
+</g>
+<path d="M902 312 H919 M910.5 303.5 V320.5" class="line" opacity=".65"/>
+
+</svg>

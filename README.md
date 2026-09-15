@@ -1,34 +1,67 @@
-# Yuqin Wang
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/maker-dark.svg">
+  <img src="assets/maker-light.svg" width="100%" alt="Yuqin Wang — Small apps. Real life. Apps for everyday life and tools for working with AI.">
+</picture>
 
-Independent maker building apps for everyday life and tools for working with AI.
+### Hi, I'm Yuqin / 王钰钦
 
-I turn small questions into working products: how to notice more of a familiar city, learn from everyday photos, and keep useful work going with AI.
+I build apps around things I want to do myself: find something interesting in an ordinary photo, take a different walk, or pick up an unfinished task with AI.
 
-[Website & writing](https://yuqin.wang/) · [简体中文](README.zh-CN.md)
+**[Visit my website ↗](https://yuqin.wang/)** &nbsp; · &nbsp; [Writing](https://yuqin.wang/#/articles) &nbsp; · &nbsp; [简体中文](README.zh-CN.md)
 
-## Selected work
+## A closer look at everyday life
 
-| Project | What it does · Current stage |
-| --- | --- |
-| **[Jianwei · 见微](https://github.com/wangyuqin378-cpu/jianwei)** | Discover knowledge in everyday photos, with traceable sources. **In development · iPhone.** [Explore →](https://yuqin.wang/#/project/jianwei) |
-| **[City Copy · 城市副本](https://yuqin.wang/#/project/city)** | Small daily prompts help you notice the city, take photos and make a personal zine. **In development · iPhone · private source.** [Product story →](https://yuqin.wang/#/project/city) |
-| **[Context Continuity](https://github.com/wangyuqin378-cpu/context-continuity)** | Save decisions, evidence and the next step so a long AI task can resume after interruption. **[v2.1.0](https://github.com/wangyuqin378-cpu/context-continuity/releases/tag/v2.1.0) · MIT · Python 3.9+.** [Try it →](https://github.com/wangyuqin378-cpu/context-continuity/tree/main/examples/quickstart) |
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/wangyuqin378-cpu/jianwei">Jianwei / 见微</a></h3>
+  <p>A little knowledge hiding in your camera roll. Everyday photos become cards with sources you can follow.</p>
+  <p><strong>iPhone · In development</strong></p>
+  <p align="center"><a href="https://yuqin.wang/#/project/jianwei"><img src="assets/jianwei-today.webp" width="190" alt="Real Jianwei development preview: a broom photo becomes a knowledge card with a source link."></a></p>
+  <p><a href="https://yuqin.wang/#/project/jianwei"><strong>See the product ↗</strong></a> · <a href="https://github.com/wangyuqin378-cpu/jianwei">Repository</a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://yuqin.wang/#/project/city">City Copy / 城市副本</a></h3>
+  <p>A small reason to take a different walk. Follow a daily prompt, collect photos and make a city zine.</p>
+  <p><strong>iPhone · In development</strong></p>
+  <p align="center"><a href="https://yuqin.wang/#/project/city"><img src="assets/city-task.webp" width="190" alt="Real City Copy development preview: today's small city exploration prompt."></a></p>
+  <p><a href="https://yuqin.wang/#/project/city"><strong>See the product ↗</strong></a> · Private source</p>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/wangyuqin378-cpu/jianwei"><img src="assets/jianwei-today.webp" width="180" alt="Jianwei: photo knowledge card with source link"></a>
-<a href="https://yuqin.wang/#/project/city"><img src="assets/city-task.webp" width="180" alt="City Copy: a small daily city exploration prompt"></a>
+<details>
+<summary>About these development previews</summary>
 
-*Jianwei and City Copy — development previews. Jianwei's public repository is an earlier engineering snapshot; public distribution and final device acceptance are still pending. Context Continuity's evaluation scope and limits are documented in its repository.*
+These are real interfaces from ongoing product work. Jianwei's public repository contains an earlier engineering snapshot; it does not reproduce this exact preview. Public downloads, final device acceptance and distribution are still pending for both apps.
 
-## More tools & experiments
+</details>
 
-| Project | What it explores | Stage |
-| --- | --- | --- |
-| [Prompt Generation Loop](https://github.com/wangyuqin378-cpu/prompt-generation-loop) | Turn product goals and failure cases into testable prompts. | Agent Skill prototype |
-| [Codex Resume Manager](https://github.com/wangyuqin378-cpu/codex-resume-manager) | Resume an opted-in Codex task after usage limits reset. | Local macOS tool; natural reset validation pending |
-| [Just Do It](https://github.com/wangyuqin378-cpu/just-do-it) | Turn notes into personal actions and follow-ups. | Workflow experiment; internal service dependencies |
-| [Texas Hold’em](https://github.com/wangyuqin378-cpu/texas-holdem) | A browser table for friends, with rooms and practice bots. | Learning demo |
+## Keep the useful work going
 
-## Latest updates
+### [Context Continuity](https://github.com/wangyuqin378-cpu/context-continuity)
+
+Long AI tasks need a place to leave off. Save the decisions, evidence and next step, then carry them into the next session.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/continuity-dark.svg">
+  <img src="assets/continuity-light.svg" width="100%" alt="Workflow: decisions and evidence → a checkpoint with the next step → resume in the next session.">
+</picture>
+
+**[Try the walkthrough →](https://github.com/wangyuqin378-cpu/context-continuity/tree/main/examples/quickstart)** &nbsp; · &nbsp; [v2.1.0](https://github.com/wangyuqin378-cpu/context-continuity/releases/tag/v2.1.0) · MIT · Python 3.9+
+
+The workflow sketch above explains the idea. Supported behavior and evaluation limits are in the repository.
+
+### Also on my workbench
+
+- **[Prompt Generation Loop](https://github.com/wangyuqin378-cpu/prompt-generation-loop)** — Turn a product goal and failure cases into a testable prompt. *Agent Skill prototype.*
+- **[Codex Resume Manager](https://github.com/wangyuqin378-cpu/codex-resume-manager)** — Continue an opted-in task after its usage limit resets. *Local macOS tool; natural reset validation pending.*
+- **[Just Do It](https://github.com/wangyuqin378-cpu/just-do-it)** — Turn scattered notes into actions and follow-ups. *Workflow experiment; depends on internal services.*
+- **[Texas Hold’em](https://github.com/wangyuqin378-cpu/texas-holdem)** — Open a browser table for friends or practice with bots. *Learning demo.*
+
+## Fresh from the workbench
+
+Recent public development, with links to what changed.
 
 <!-- updates:start -->
 - 2026-09-16 · **Development update** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
@@ -38,4 +71,4 @@ I turn small questions into working products: how to notice more of a familiar c
 - 2026-08-27 · **Development update** · jianwei — [Refresh iOS beta handoff evidence](https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b)
 <!-- updates:end -->
 
-[All updates](UPDATES.md) · [More about my work](https://yuqin.wang/#/projects)
+[All updates →](UPDATES.md) &nbsp; · &nbsp; [More projects & stories ↗](https://yuqin.wang/#/projects)

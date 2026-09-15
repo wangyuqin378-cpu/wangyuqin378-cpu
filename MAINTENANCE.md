@@ -2,6 +2,8 @@
 
 [Validation record and remaining checks](VALIDATION.md)
 
+[Visual direction and editable artwork](DESIGN.md)
+
 ## Content
 
 - `README.md` is the English profile; `README.zh-CN.md` is the Chinese entry.
