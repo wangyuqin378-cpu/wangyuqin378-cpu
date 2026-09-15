@@ -1,0 +1,253 @@
+{
+  "since": "2026-08-17T00:00:00Z",
+  "events": [
+    {
+      "id": "jianwei:commit:7a19a0b544a4975b711131adb89e8bbe77f0b55b",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Refresh iOS beta handoff evidence",
+      "date": "2026-08-26T20:11:11Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b"
+    },
+    {
+      "id": "jianwei:commit:b4f7ac7c24f155be45055aed2674dca6ce06cd9e",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Allow StoreKit cold-start readiness",
+      "date": "2026-08-26T19:42:38Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/b4f7ac7c24f155be45055aed2674dca6ce06cd9e"
+    },
+    {
+      "id": "jianwei:commit:acd6ba6e34d60a5752bf3a92241486157683acc9",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Stabilize onboarding UI readiness checks",
+      "date": "2026-08-26T19:37:22Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/acd6ba6e34d60a5752bf3a92241486157683acc9"
+    },
+    {
+      "id": "jianwei:commit:91e25449ff208cb6541e826b256726ba1ee1b82e",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Avoid duplicate entitlement refresh on restore",
+      "date": "2026-08-26T19:22:03Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/91e25449ff208cb6541e826b256726ba1ee1b82e"
+    },
+    {
+      "id": "jianwei:commit:8b552ccdff733a1a40a4926027f98fc72744f3f9",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Harden iOS StoreKit release gate",
+      "date": "2026-08-26T19:16:25Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/8b552ccdff733a1a40a4926027f98fc72744f3f9"
+    },
+    {
+      "id": "jianwei:commit:c1a8e5731a8287573c9333ee29055ae41824238f",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Support free HTTPS phone testing",
+      "date": "2026-08-26T18:29:45Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/c1a8e5731a8287573c9333ee29055ae41824238f"
+    },
+    {
+      "id": "jianwei:commit:7b75779d03603e216029af7b00388e7e6fa7b977",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Gate photo uploads behind model access",
+      "date": "2026-08-26T17:52:34Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/7b75779d03603e216029af7b00388e7e6fa7b977"
+    },
+    {
+      "id": "jianwei:commit:9b3d59be6ab27cad64137a3010ab4a6de69f3a11",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Bind the iOS App Store submission package",
+      "date": "2026-08-26T17:14:51Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/9b3d59be6ab27cad64137a3010ab4a6de69f3a11"
+    },
+    {
+      "id": "jianwei:commit:12226ea2e192d3ec75e7e010f66e7d0a7c81a623",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Cover a full month within the trial budget",
+      "date": "2026-08-26T16:15:13Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/12226ea2e192d3ec75e7e010f66e7d0a7c81a623"
+    },
+    {
+      "id": "jianwei:commit:6a697feb7e6254da676179269bb3839775aab3db",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Upgrade GitHub Actions runtimes",
+      "date": "2026-08-26T16:03:23Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/6a697feb7e6254da676179269bb3839775aab3db"
+    },
+    {
+      "id": "jianwei:commit:897efaff328c9e5b00ef63c43d25d70ca0baad27",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Cap free experience model spend at ten yuan",
+      "date": "2026-08-26T15:55:05Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/897efaff328c9e5b00ef63c43d25d70ca0baad27"
+    },
+    {
+      "id": "jianwei:commit:a897e41b4888bc29ca69378cc5a660a2ffe9b8ff",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Allow manual CI reruns",
+      "date": "2026-08-26T15:50:58Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/a897e41b4888bc29ca69378cc5a660a2ffe9b8ff"
+    },
+    {
+      "id": "jianwei:commit:e1f75da6ad785b9d9f73a0f1a1f54b17ebc5658d",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Declare exempt iOS encryption use",
+      "date": "2026-08-26T15:48:46Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/e1f75da6ad785b9d9f73a0f1a1f54b17ebc5658d"
+    },
+    {
+      "id": "jianwei:commit:ce2d5bcc72a3d36d51a5dd198718dd5e1ee23b40",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Validate iOS privacy manifest for release",
+      "date": "2026-08-26T15:32:38Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/ce2d5bcc72a3d36d51a5dd198718dd5e1ee23b40"
+    },
+    {
+      "id": "jianwei:commit:f12d879aec529532cb525ae4cbf8cb0ba6218d1e",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Harden iOS TestFlight signing gate",
+      "date": "2026-08-26T15:13:03Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/f12d879aec529532cb525ae4cbf8cb0ba6218d1e"
+    },
+    {
+      "id": "jianwei:commit:a2c26628d07f24ad99270c497ab87212da3705cd",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Use Qwen 3.7 for beta inference",
+      "date": "2026-08-26T10:42:06Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/a2c26628d07f24ad99270c497ab87212da3705cd"
+    },
+    {
+      "id": "jianwei:commit:df0516f0d3b610aa02fe849802e8e32582218124",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "feat: add free Qwen experience path",
+      "date": "2026-08-26T10:02:26Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/df0516f0d3b610aa02fe849802e8e32582218124"
+    },
+    {
+      "id": "jianwei:commit:5f1bf3c012c70feb51ea7eb9205b215d36c9b55d",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Fix backend card title E2E assertion",
+      "date": "2026-08-26T08:35:57Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/5f1bf3c012c70feb51ea7eb9205b215d36c9b55d"
+    },
+    {
+      "id": "jianwei:commit:d91a384de25e62490a096b2f05dac193fa9236a8",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "Add reproducible Function Compute beta deployment",
+      "date": "2026-08-26T08:09:07Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/d91a384de25e62490a096b2f05dac193fa9236a8"
+    },
+    {
+      "id": "jianwei:commit:d7accf30b435df09bcb2b5b41146f7f5f5eed2b2",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "feat(ios): prepare App Store submission materials",
+      "date": "2026-08-25T19:22:29Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/d7accf30b435df09bcb2b5b41146f7f5f5eed2b2"
+    },
+    {
+      "id": "jianwei:commit:3c23774b1bf837347da7f990a175bfbf03542647",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "feat(ios): add testable launch subscription offer",
+      "date": "2026-08-25T19:05:43Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/3c23774b1bf837347da7f990a175bfbf03542647"
+    },
+    {
+      "id": "jianwei:commit:d665d8d7bec5c254400b72af2d47ddd120b98413",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "feat(ios): ship daily AI selection and subscriptions",
+      "date": "2026-08-25T18:39:57Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/d665d8d7bec5c254400b72af2d47ddd120b98413"
+    },
+    {
+      "id": "jianwei:commit:97d61fa53f8cb05697991db33af2b33d47355206",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "feat(ios): polish daily knowledge widgets",
+      "date": "2026-08-25T15:59:26Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/97d61fa53f8cb05697991db33af2b33d47355206"
+    },
+    {
+      "id": "context-continuity:release:374885726",
+      "repo": "context-continuity",
+      "kind": "release",
+      "title": "Context Continuity V2.1 — lean operation",
+      "date": "2026-08-22T09:21:21Z",
+      "url": "https://github.com/wangyuqin378-cpu/context-continuity/releases/tag/v2.1.0"
+    },
+    {
+      "id": "context-continuity:pr:1",
+      "repo": "context-continuity",
+      "kind": "pr",
+      "title": "feat: add lean continuity mode",
+      "date": "2026-08-22T09:19:14Z",
+      "url": "https://github.com/wangyuqin378-cpu/context-continuity/pull/1"
+    },
+    {
+      "id": "jianwei:commit:922e2095d2b4340217c4cfce1ed63f7ef9cd4e22",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "docs: simplify project README",
+      "date": "2026-08-22T04:32:21Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/922e2095d2b4340217c4cfce1ed63f7ef9cd4e22"
+    },
+    {
+      "id": "jianwei:commit:6e98d7672821153780d7ddc9970f3e62f695304a",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "fix(android): verify Linux aapt2 artifact",
+      "date": "2026-08-21T11:50:28Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/6e98d7672821153780d7ddc9970f3e62f695304a"
+    },
+    {
+      "id": "jianwei:commit:6139ce6c17b0b0e7418e3090e8540484338a56f1",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "fix(ci): run repository gates from workspace root",
+      "date": "2026-08-21T11:45:23Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/6139ce6c17b0b0e7418e3090e8540484338a56f1"
+    },
+    {
+      "id": "jianwei:commit:4d89f7e7112cccb1239d2a22157aeea837ff714d",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "fix(ci): resolve knowledge catalog from repository root",
+      "date": "2026-08-21T11:37:31Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/4d89f7e7112cccb1239d2a22157aeea837ff714d"
+    },
+    {
+      "id": "jianwei:commit:dbbf177484a05981d2cf9db3480e23e0a387c06c",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "fix(deps): patch fast-uri vulnerabilities",
+      "date": "2026-08-21T11:33:42Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/dbbf177484a05981d2cf9db3480e23e0a387c06c"
+    },
+    {
+      "id": "jianwei:commit:487397f4463d4ecc1a5823103f397e74b6efe84a",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "feat: publish cross-platform photo knowledge framework",
+      "date": "2026-08-21T11:17:17Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/487397f4463d4ecc1a5823103f397e74b6efe84a"
+    }
+  ]
+}
