@@ -2,6 +2,38 @@
   "since": "2026-08-17T00:00:00Z",
   "events": [
     {
+      "id": "codex-resume-manager:commit:1e12022628174845928b2596d2a191ca6fa0f8c5",
+      "repo": "codex-resume-manager",
+      "kind": "commit",
+      "title": "docs: clarify product purpose, setup and validation status",
+      "date": "2026-09-15T18:01:05Z",
+      "url": "https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5"
+    },
+    {
+      "id": "prompt-generation-loop:commit:0c7e08dec523e65ad8f7b621ff5d5e6359c2493b",
+      "repo": "prompt-generation-loop",
+      "kind": "commit",
+      "title": "docs: clarify product purpose, setup and validation status",
+      "date": "2026-09-15T18:01:00Z",
+      "url": "https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/0c7e08dec523e65ad8f7b621ff5d5e6359c2493b"
+    },
+    {
+      "id": "context-continuity:commit:f3973909f3eb7b317be4424229a29ba1cb75490a",
+      "repo": "context-continuity",
+      "kind": "commit",
+      "title": "docs: clarify product purpose, setup and validation status",
+      "date": "2026-09-15T18:00:53Z",
+      "url": "https://github.com/wangyuqin378-cpu/context-continuity/commit/f3973909f3eb7b317be4424229a29ba1cb75490a"
+    },
+    {
+      "id": "jianwei:commit:476c6f2c43c1f5f3fb48507f2f12c4d1a224d076",
+      "repo": "jianwei",
+      "kind": "commit",
+      "title": "docs: clarify product purpose, setup and validation status",
+      "date": "2026-09-15T18:00:46Z",
+      "url": "https://github.com/wangyuqin378-cpu/jianwei/commit/476c6f2c43c1f5f3fb48507f2f12c4d1a224d076"
+    },
+    {
       "id": "jianwei:commit:7a19a0b544a4975b711131adb89e8bbe77f0b55b",
       "repo": "jianwei",
       "kind": "commit",

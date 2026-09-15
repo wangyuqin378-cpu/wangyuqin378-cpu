@@ -3,6 +3,16 @@
 Original dates and source links. Weeks and displayed dates use Asia/Shanghai (UTC+8).
 Only the four public repositories listed in [MAINTENANCE.md](MAINTENANCE.md) are included.
 
+## 2026-W38
+
+- 2026-09-16 · **Development update** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
+
+- 2026-09-16 · **Development update** · prompt-generation-loop — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/0c7e08dec523e65ad8f7b621ff5d5e6359c2493b)
+
+- 2026-09-16 · **Development update** · context-continuity — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/context-continuity/commit/f3973909f3eb7b317be4424229a29ba1cb75490a)
+
+- 2026-09-16 · **Development update** · jianwei — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/jianwei/commit/476c6f2c43c1f5f3fb48507f2f12c4d1a224d076)
+
 ## 2026-W35
 
 - 2026-08-27 · **Development update** · jianwei — [Refresh iOS beta handoff evidence](https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b)

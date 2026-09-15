@@ -31,11 +31,11 @@ I turn small questions into working products: how to notice more of a familiar c
 ## Latest updates
 
 <!-- updates:start -->
+- 2026-09-16 · **Development update** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
+- 2026-09-16 · **Development update** · prompt-generation-loop — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/0c7e08dec523e65ad8f7b621ff5d5e6359c2493b)
+- 2026-09-16 · **Development update** · context-continuity — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/context-continuity/commit/f3973909f3eb7b317be4424229a29ba1cb75490a)
+- 2026-09-16 · **Development update** · jianwei — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/jianwei/commit/476c6f2c43c1f5f3fb48507f2f12c4d1a224d076)
 - 2026-08-27 · **Development update** · jianwei — [Refresh iOS beta handoff evidence](https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b)
-- 2026-08-27 · **Development update** · jianwei — [Allow StoreKit cold\-start readiness](https://github.com/wangyuqin378-cpu/jianwei/commit/b4f7ac7c24f155be45055aed2674dca6ce06cd9e)
-- 2026-08-27 · **Development update** · jianwei — [Stabilize onboarding UI readiness checks](https://github.com/wangyuqin378-cpu/jianwei/commit/acd6ba6e34d60a5752bf3a92241486157683acc9)
-- 2026-08-27 · **Development update** · jianwei — [Avoid duplicate entitlement refresh on restore](https://github.com/wangyuqin378-cpu/jianwei/commit/91e25449ff208cb6541e826b256726ba1ee1b82e)
-- 2026-08-27 · **Development update** · jianwei — [Harden iOS StoreKit release gate](https://github.com/wangyuqin378-cpu/jianwei/commit/8b552ccdff733a1a40a4926027f98fc72744f3f9)
 <!-- updates:end -->
 
 [All updates](UPDATES.md) · [More about my work](https://yuqin.wang/#/projects)
