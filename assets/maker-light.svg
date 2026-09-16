@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 358" role="img" aria-labelledby="title desc">
-<title id="title">Yuqin Wang — Small apps. Real life.</title><desc id="desc">Original illustration: a photo observation card, a folded city map, and a task bookmark connected by one line. Apps for everyday life and tools for working with AI.</desc>
+<title id="title">Yuqin Wang — Small apps. Real life.</title><desc id="desc">Original illustration: a photo observation card, a folded city map, a spoken to-do, and a task bookmark connected by one line. Apps for everyday life and tools for working with AI.</desc>
 <style>text{font-family:'Avenir Next',Avenir,'Trebuchet MS',Arial,sans-serif;fill:#17384A}.small{font-size:16px;letter-spacing:2px;font-weight:600}.muted{fill:#486271}.line{stroke:#17384A;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}</style>
 <rect width="960" height="358" rx="20" fill="#E6EFF4"/>
 <!-- A continuous observation line joins a photo, a city walk and a saved task. -->
@@ -9,7 +9,7 @@
 <text x="42" y="131" font-size="70" font-weight="750" letter-spacing="-3">Small apps.</text>
 <text x="42" y="209" font-size="76" font-family="Georgia,serif" font-style="italic" letter-spacing="-3" style="font-family:Georgia,serif">Real life.</text>
 <path d="M45 229 Q206 241 357 227" fill="none" stroke="#C44832" stroke-width="5" stroke-linecap="round"/>
-<text x="43" y="281" font-size="21" class="muted">Everyday curiosity. Useful AI tools.</text>
+<text x="43" y="281" font-size="21" class="muted">Small tasks. Everyday curiosity. Useful AI.</text>
 <text x="43" y="322" class="small muted">INDEPENDENT MAKER  /  yuqin.wang</text>
 <!-- Photo observation: viewfinder corners, a leaf, and a source label. -->
 <g transform="translate(555 58) rotate(-8 70 86)">
@@ -28,6 +28,11 @@
 <path d="M26 129 L26 80 L83 92 L83 41 L132 30" stroke="#C44832" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="26" cy="129" r="6" fill="#C44832"/>
 <circle cx="132" cy="30" r="9" fill="#F3CFB9" stroke="#C44832" stroke-width="3"/>
+</g>
+<!-- Voice Todo: a spoken task can be checked off. -->
+<g transform="translate(541 265) rotate(4)">
+<path d="M0 0 H122 Q132 0 132 10 V46 Q132 56 122 56 H34 L17 70 V56 H10 Q0 56 0 46 Z" fill="#C7DCD2" stroke="#B4CDD8" stroke-width="2"/>
+<path d="M22 27 L32 37 L49 18 M67 22 H111 M67 37 H100" class="line"/>
 </g>
 <!-- Continuity: a bookmark carried to the next task. -->
 <g transform="translate(715 237) rotate(-5 75 43)">

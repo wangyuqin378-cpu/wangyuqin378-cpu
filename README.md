@@ -5,9 +5,19 @@
 
 ### Hi, I'm Yuqin / 王钰钦
 
-I build apps around things I want to do myself: find something interesting in an ordinary photo, take a different walk, or pick up an unfinished task with AI.
+I build apps around things I want to do myself: capture a to-do while speaking, find something interesting in an ordinary photo, or pick up an unfinished task with AI.
 
 **[Visit my website ↗](https://yuqin.wang/)** &nbsp; · &nbsp; [Writing](https://yuqin.wang/#/articles) &nbsp; · &nbsp; [简体中文](README.zh-CN.md)
+
+## Currently building: 随口清单 / Voice Todo
+
+**Say it to save it. Say it is done to finish it.** A desktop to-do companion for a voice-input habit: create tasks, complete matching ones, request reminders and undo mistakes.
+
+[<img src="assets/voice-todo-en.svg" width="100%" alt="Voice Todo: a spoken task becomes a to-do, then a spoken completion checks it off. Workflow illustration, not an app screenshot.">](https://github.com/wangyuqin378-cpu/voice-todo)
+
+**macOS 26 · Development build · Public source**. Build locally; no notarized download yet. Background voice capture uses explicit opening phrases. External transcript reception is experimental; real voice use and notification delivery still need device acceptance.
+
+**[Read more & build →](https://github.com/wangyuqin378-cpu/voice-todo)** · [中文介绍](https://github.com/wangyuqin378-cpu/voice-todo/blob/main/README.zh-CN.md)
 
 ## A closer look at everyday life
 
@@ -66,11 +76,11 @@ The workflow sketch above explains the idea. Supported behavior and evaluation l
 Recent public development, with links to what changed.
 
 <!-- updates:start -->
-- 2026-09-16 · **Development update** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
-- 2026-09-16 · **Development update** · prompt-generation-loop — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/0c7e08dec523e65ad8f7b621ff5d5e6359c2493b)
-- 2026-09-16 · **Development update** · context-continuity — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/context-continuity/commit/f3973909f3eb7b317be4424229a29ba1cb75490a)
-- 2026-09-16 · **Development update** · jianwei — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/jianwei/commit/476c6f2c43c1f5f3fb48507f2f12c4d1a224d076)
-- 2026-08-27 · **Development update** · jianwei — [Refresh iOS beta handoff evidence](https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b)
+- 2026-09-17 · **Development update** · voice-todo — [docs: explain voice workflow, setup and build28 opening phrases](https://github.com/wangyuqin378-cpu/voice-todo/commit/61b8951e5c7932b634b87994d68900aa79341e7f)
+- 2026-09-17 · **Development update** · codex-resume-manager — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/b7050a7c132d33df44abac1929a9fe7a03ceff7d)
+- 2026-09-17 · **Development update** · prompt-generation-loop — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/96bdf6b115710f457bc497222cd20193a2c1d6d7)
+- 2026-09-17 · **Development update** · context-continuity — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/context-continuity/commit/16da5c9a8f4a2d9f9f6f2092c8fde5d96bc08e32)
+- 2026-09-17 · **Development update** · jianwei — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/jianwei/commit/70c8ff48d796f381a748ded4d7f599bc8f7738cf)
 <!-- updates:end -->
 
 [All updates →](UPDATES.md) &nbsp; · &nbsp; [More projects & stories ↗](https://yuqin.wang/#/projects)

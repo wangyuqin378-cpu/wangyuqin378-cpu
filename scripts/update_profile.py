@@ -14,7 +14,7 @@ import urllib.parse
 import urllib.request
 
 OWNER = 'wangyuqin378-cpu'
-REPOS = ('jianwei', 'context-continuity', 'prompt-generation-loop', 'codex-resume-manager')
+REPOS = ('voice-todo', 'jianwei', 'context-continuity', 'prompt-generation-loop', 'codex-resume-manager')
 # Fixed start preserves missed weeks when a scheduled run is delayed or disabled.
 SINCE = '2026-08-17T00:00:00Z'
 TZ = dt.timezone(dt.timedelta(hours=8))
@@ -141,7 +141,7 @@ def generated(root, events):
             raise ValueError(f'{filename}: expected one ordered marker pair')
         body = '\n'.join(line(e, zh) for e in events[:5]) or ('暂无公开更新。' if zh else 'No public updates yet.')
         outputs[filename] = original[:original.index(START)] + START + '\n' + body + '\n' + original[original.index(END):]
-    archive = '# Public updates / 公开进展\n\nOriginal dates and source links. Weeks and displayed dates use Asia/Shanghai (UTC+8).\nOnly the four public repositories listed in [MAINTENANCE.md](MAINTENANCE.md) are included.\n\n'
+    archive = '# Public updates / 公开进展\n\nOriginal dates and source links. Weeks and displayed dates use Asia/Shanghai (UTC+8).\nOnly the public repositories listed in [MAINTENANCE.md](MAINTENANCE.md) are included.\n\n'
     week = None
     for e in events:
         iso = timestamp(e['date']).astimezone(TZ).isocalendar()

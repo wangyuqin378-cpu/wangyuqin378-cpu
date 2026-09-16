@@ -5,9 +5,19 @@
 
 ### 你好，我是王钰钦 / Yuqin
 
-独立产品创作者。我做的东西，往往来自自己想做的一件小事：从普通照片里发现一点知识，换条路逛逛城市，或者让没做完的 AI 任务接着往下走。
+独立产品创作者。我做的东西，往往来自自己想做的一件小事：随口记下一件待办，从普通照片里发现一点知识，或让没做完的 AI 任务接着往下走。
 
 **[逛逛我的网站 ↗](https://yuqin.wang/)** &nbsp; · &nbsp; [文章](https://yuqin.wang/#/articles) &nbsp; · &nbsp; [English](README.md)
+
+## 现在主推：随口清单
+
+**说一句记下，说一句完成。** 一个接在语音输入习惯后面的桌面待办工具：识别要做什么、做完了什么，按需提醒，并保留撤销入口。
+
+[<img src="assets/voice-todo-zh.svg" width="100%" alt="随口清单的创建与完成流程示意，非应用截图。">](https://github.com/wangyuqin378-cpu/voice-todo)
+
+**macOS 26 · 开发版 · 源码已公开**。目前需要本机构建，尚无公证安装包；后台语音需要明确的开头口令。外部转写接收仍在试验，真人语音和通知送达待验收。
+
+**[了解与构建 →](https://github.com/wangyuqin378-cpu/voice-todo/blob/main/README.zh-CN.md)** · [使用指南](https://github.com/wangyuqin378-cpu/voice-todo/blob/main/docs/USAGE.md)
 
 ## 把日常，再看仔细一点
 
@@ -57,7 +67,7 @@ AI 长任务也需要书签。保存已经做出的决定、找到的证据和�
 ### 工作台上的其他尝试
 
 - **[Prompt Generation Loop](https://github.com/wangyuqin378-cpu/prompt-generation-loop)** — 从产品目标和坏例出发，生成可测试的 Prompt。*Agent Skill 原型。*
-- **[Codex Resume Manager](https://github.com/wangyuqin378-cpu/codex-resume-manager)** — 额度恢复后，继续主动开启守护的原任务。*macOS 本地工具；真实额度中断验收待完成。*
+- **[Codex Resume Manager](https://github.com/wangyuqin378-cpu/codex-resume-manager)** — 额度恢复后，继续已登记守护的原任务。*macOS 本地工具；真实额度中断验收待完成。*
 - **[Just Do It](https://github.com/wangyuqin378-cpu/just-do-it)** — 把纪要和零散输入整理成行动与后续事项。*依赖内部服务的工作流实验。*
 - **[Texas Hold’em](https://github.com/wangyuqin378-cpu/texas-holdem)** — 给朋友开一桌浏览器牌局，也能和机器人练习。*学习 Demo。*
 
@@ -66,11 +76,11 @@ AI 长任务也需要书签。保存已经做出的决定、找到的证据和�
 最近的公开开发记录，点进去可以看到具体改动。
 
 <!-- updates:start -->
-- 2026-09-16 · **开发更新** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
-- 2026-09-16 · **开发更新** · prompt-generation-loop — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/0c7e08dec523e65ad8f7b621ff5d5e6359c2493b)
-- 2026-09-16 · **开发更新** · context-continuity — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/context-continuity/commit/f3973909f3eb7b317be4424229a29ba1cb75490a)
-- 2026-09-16 · **开发更新** · jianwei — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/jianwei/commit/476c6f2c43c1f5f3fb48507f2f12c4d1a224d076)
-- 2026-08-27 · **开发更新** · jianwei — [Refresh iOS beta handoff evidence](https://github.com/wangyuqin378-cpu/jianwei/commit/7a19a0b544a4975b711131adb89e8bbe77f0b55b)
+- 2026-09-17 · **开发更新** · voice-todo — [docs: explain voice workflow, setup and build28 opening phrases](https://github.com/wangyuqin378-cpu/voice-todo/commit/61b8951e5c7932b634b87994d68900aa79341e7f)
+- 2026-09-17 · **开发更新** · codex-resume-manager — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/b7050a7c132d33df44abac1929a9fe7a03ceff7d)
+- 2026-09-17 · **开发更新** · prompt-generation-loop — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/96bdf6b115710f457bc497222cd20193a2c1d6d7)
+- 2026-09-17 · **开发更新** · context-continuity — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/context-continuity/commit/16da5c9a8f4a2d9f9f6f2092c8fde5d96bc08e32)
+- 2026-09-17 · **开发更新** · jianwei — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/jianwei/commit/70c8ff48d796f381a748ded4d7f599bc8f7738cf)
 <!-- updates:end -->
 
 [完整更新 →](UPDATES.md) &nbsp; · &nbsp; [更多作品与故事 ↗](https://yuqin.wang/#/projects)

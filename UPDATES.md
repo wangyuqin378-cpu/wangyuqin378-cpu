@@ -1,9 +1,25 @@
 # Public updates / 公开进展
 
 Original dates and source links. Weeks and displayed dates use Asia/Shanghai (UTC+8).
-Only the four public repositories listed in [MAINTENANCE.md](MAINTENANCE.md) are included.
+Only the public repositories listed in [MAINTENANCE.md](MAINTENANCE.md) are included.
 
 ## 2026-W38
+
+- 2026-09-17 · **Development update** · voice-todo — [docs: explain voice workflow, setup and build28 opening phrases](https://github.com/wangyuqin378-cpu/voice-todo/commit/61b8951e5c7932b634b87994d68900aa79341e7f)
+
+- 2026-09-17 · **Development update** · codex-resume-manager — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/b7050a7c132d33df44abac1929a9fe7a03ceff7d)
+
+- 2026-09-17 · **Development update** · prompt-generation-loop — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/prompt-generation-loop/commit/96bdf6b115710f457bc497222cd20193a2c1d6d7)
+
+- 2026-09-17 · **Development update** · context-continuity — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/context-continuity/commit/16da5c9a8f4a2d9f9f6f2092c8fde5d96bc08e32)
+
+- 2026-09-17 · **Development update** · jianwei — [docs: clarify purpose, first use and motivation in both languages](https://github.com/wangyuqin378-cpu/jianwei/commit/70c8ff48d796f381a748ded4d7f599bc8f7738cf)
+
+- 2026-09-17 · **Development update** · voice-todo — [Require explicit opening phrases for background voice capture](https://github.com/wangyuqin378-cpu/voice-todo/commit/fa8b5a4cb2a77a3228a04357b74e22758775a16c)
+
+- 2026-09-17 · **Development update** · voice-todo — [docs: present voice input companion and clarify current capabilities](https://github.com/wangyuqin378-cpu/voice-todo/commit/dc0b178df3b0a2a7917e73138955b3ab1c1a5c4c)
+
+- 2026-09-17 · **Development update** · voice-todo — [Add reviewed macOS voice todo app and validation coverage](https://github.com/wangyuqin378-cpu/voice-todo/commit/509000d13ac2d54c6dc297b9c93ff95685ba0660)
 
 - 2026-09-16 · **Development update** · codex-resume-manager — [docs: clarify product purpose, setup and validation status](https://github.com/wangyuqin378-cpu/codex-resume-manager/commit/1e12022628174845928b2596d2a191ca6fa0f8c5)
 

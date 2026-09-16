@@ -7,7 +7,7 @@
 ## Content
 
 - `README.md` is the English profile; `README.zh-CN.md` is the Chinese entry.
-- Keep selected work in this order: Jianwei, City Copy, Context Continuity.
+- Keep selected work in this order: Voice Todo, Jianwei, City Copy, Context Continuity.
 - Label prototypes and incomplete device/distribution checks explicitly.
 - See [asset provenance](assets/README.md) before replacing images.
 - Public source visibility is separate from a license grant. Do not infer permission from visibility.
@@ -18,6 +18,7 @@
 
 Sources are explicitly limited to these public repositories:
 
+- `wangyuqin378-cpu/voice-todo`
 - `wangyuqin378-cpu/jianwei`
 - `wangyuqin378-cpu/context-continuity`
 - `wangyuqin378-cpu/prompt-generation-loop`

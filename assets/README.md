@@ -14,3 +14,7 @@ Original files are preserved without image edits.
 `continuity-mobile-light.svg` / `continuity-mobile-dark.svg` provide the same workflow in a vertical layout below 600px.
 
 See [design direction and references](../DESIGN.md).
+
+## Voice Todo
+
+`voice-todo-en.svg` and `voice-todo-zh.svg` come from the public [Voice Todo repository](https://github.com/wangyuqin378-cpu/voice-todo/tree/main/assets/readme). They show synthetic create/complete examples, not screenshots or evidence of completed voice acceptance. Keep them synchronized with that source.

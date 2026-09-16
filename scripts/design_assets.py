@@ -25,7 +25,7 @@ def hero(p):
 <text x="42" y="131" font-size="70" font-weight="750" letter-spacing="-3">Small apps.</text>
 <text x="42" y="209" font-size="76" font-family="Georgia,serif" font-style="italic" letter-spacing="-3" style="font-family:Georgia,serif">Real life.</text>
 <path d="M45 229 Q206 241 357 227" fill="none" stroke="{p['coral']}" stroke-width="5" stroke-linecap="round"/>
-<text x="43" y="281" font-size="21" class="muted">Everyday curiosity. Useful AI tools.</text>
+<text x="43" y="281" font-size="21" class="muted">Small tasks. Everyday curiosity. Useful AI.</text>
 <text x="43" y="322" class="small muted">INDEPENDENT MAKER  /  yuqin.wang</text>
 <!-- Photo observation: viewfinder corners, a leaf, and a source label. -->
 <g transform="translate(555 58) rotate(-8 70 86)">
@@ -45,6 +45,11 @@ def hero(p):
 <circle cx="26" cy="129" r="6" fill="{p['coral']}"/>
 <circle cx="132" cy="30" r="9" fill="{p['peach']}" stroke="{p['coral']}" stroke-width="3"/>
 </g>
+<!-- Voice Todo: a spoken task can be checked off. -->
+<g transform="translate(541 265) rotate(4)">
+<path d="M0 0 H122 Q132 0 132 10 V46 Q132 56 122 56 H34 L17 70 V56 H10 Q0 56 0 46 Z" fill="{p['green']}" stroke="{p['line']}" stroke-width="2"/>
+<path d="M22 27 L32 37 L49 18 M67 22 H111 M67 37 H100" class="line"/>
+</g>
 <!-- Continuity: a bookmark carried to the next task. -->
 <g transform="translate(715 237) rotate(-5 75 43)">
 <rect width="149" height="72" rx="12" fill="{p['blue']}"/>
@@ -53,7 +58,7 @@ def hero(p):
 </g>
 <path d="M902 312 H919 M910.5 303.5 V320.5" class="line" opacity=".65"/>
 '''
-    return svg(body, p, 358, 'Yuqin Wang — Small apps. Real life.', 'Original illustration: a photo observation card, a folded city map, and a task bookmark connected by one line. Apps for everyday life and tools for working with AI.')
+    return svg(body, p, 358, 'Yuqin Wang — Small apps. Real life.', 'Original illustration: a photo observation card, a folded city map, a spoken to-do, and a task bookmark connected by one line. Apps for everyday life and tools for working with AI.')
 
 
 def continuity(p):
